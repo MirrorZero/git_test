@@ -1,0 +1,3 @@
+Hello world!
+First lines are introductory, seconds are the summary of what is yet to come.
+And tertiary, the conclusion!
